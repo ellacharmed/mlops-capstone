@@ -1,0 +1,10 @@
+# pixi environments
+.pixi
+*.egg-info
+
+# project elements
+!data
+data/**/
+
+# exclusions
+!data/raw/

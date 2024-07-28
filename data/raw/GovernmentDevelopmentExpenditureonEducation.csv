@@ -1,0 +1,376 @@
+year,type_of_educational_institutions,development_expenditure
+1985,Institute of Technical Education,25969
+1985,Junior Colleges / Centralised Institute,12670
+1985,MOE HQ,1117
+1985,National Institute of Education,3004
+1985,Others,136
+1985,Polytechnics,76088
+1985,Primary Schools,70312
+1985,Secondary Schools,78019
+1985,Universities,156875
+1986,Institute of Technical Education,22728
+1986,Junior Colleges / Centralised Institute,21402
+1986,MOE HQ,4878
+1986,National Institute of Education,9868
+1986,Others,4641
+1986,Polytechnics,41210
+1986,Primary Schools,80529
+1986,Secondary Schools,77039
+1986,Universities,99234
+1987,Institute of Technical Education,8091
+1987,Junior Colleges / Centralised Institute,8826
+1987,MOE HQ,2126
+1987,National Institute of Education,8406
+1987,Others,1134
+1987,Polytechnics,38326
+1987,Primary Schools,66887
+1987,Secondary Schools,62925
+1987,Universities,104843
+1988,Institute of Technical Education,6063
+1988,Junior Colleges / Centralised Institute,13917
+1988,MOE HQ,2258
+1988,National Institute of Education,11323
+1988,Others,171
+1988,Polytechnics,21158
+1988,Primary Schools,22576
+1988,Secondary Schools,32464
+1988,Universities,32685
+1989,Institute of Technical Education,6193
+1989,Junior Colleges / Centralised Institute,24927
+1989,MOE HQ,2724
+1989,National Institute of Education,6115
+1989,Others,185
+1989,Polytechnics,15449
+1989,Primary Schools,27606
+1989,Secondary Schools,42697
+1989,Universities,19594
+1990,Institute of Technical Education,13030
+1990,Junior Colleges / Centralised Institute,25321
+1990,MOE HQ,15933
+1990,National Institute of Education,2884
+1990,Others,838
+1990,Polytechnics,39512
+1990,Primary Schools,17117
+1990,Secondary Schools,72254
+1990,Special Education,111
+1990,Universities,74852
+1991,Institute of Technical Education,13097
+1991,Junior Colleges / Centralised Institute,22807
+1991,MOE HQ,10502
+1991,National Institute of Education,6131
+1991,Others,2485
+1991,Polytechnics,117542
+1991,Primary Schools,13816
+1991,Secondary Schools,170814
+1991,Special Education,231
+1991,Universities,102152
+1992,Institute of Technical Education,46182
+1992,Junior Colleges / Centralised Institute,10387
+1992,MOE HQ,9279
+1992,National Institute of Education,4378
+1992,Others,491
+1992,Polytechnics,106249
+1992,Primary Schools,26425
+1992,Secondary Schools,186117
+1992,Special Education,1234
+1992,Universities,163974
+1993,Institute of Technical Education,16872
+1993,Junior Colleges / Centralised Institute,16944
+1993,MOE HQ,16306
+1993,National Institute of Education,3296
+1993,Others,4938
+1993,Polytechnics,131237
+1993,Primary Schools,55703
+1993,Secondary Schools,245988
+1993,Special Education,534
+1993,Universities,200739
+1994,Institute of Technical Education,45829
+1994,Junior Colleges / Centralised Institute,21655
+1994,MOE HQ,80652
+1994,National Institute of Education,7034
+1994,Others,603
+1994,Polytechnics,274947
+1994,Primary Schools,74717
+1994,Secondary Schools,184344
+1994,Special Education,1188
+1994,Universities,141746
+1995,Institute of Technical Education,74943
+1995,Junior Colleges / Centralised Institute,13211
+1995,MOE HQ,48895
+1995,National Institute of Education,3459
+1995,Others,7232
+1995,Polytechnics,259823
+1995,Primary Schools,72382
+1995,Secondary Schools,126920
+1995,Special Education,295
+1995,Universities,154278
+1996,Institute of Technical Education,59028
+1996,Junior Colleges / Centralised Institute,8656
+1996,MOE HQ,113681
+1996,National Institute of Education,16
+1996,Others,2337
+1996,Polytechnics,159244
+1996,Primary Schools,135280
+1996,Secondary Schools,121042
+1996,Special Education,1313
+1996,Universities,174201
+1997,Institute of Technical Education,42912
+1997,Junior Colleges / Centralised Institute,13967
+1997,MOE HQ,205675
+1997,National Institute of Education,1010
+1997,Others,14389
+1997,Polytechnics,305286
+1997,Primary Schools,117978
+1997,Secondary Schools,228079
+1997,Special Education,7679
+1997,Universities,165004
+1998,Institute of Technical Education,42332
+1998,Junior Colleges / Centralised Institute,6114
+1998,MOE HQ,454953
+1998,National Institute of Education,111
+1998,Others,20152
+1998,Polytechnics,275051
+1998,Primary Schools,211942
+1998,Secondary Schools,352908
+1998,Special Education,7078
+1998,Universities,315054
+1999,Institute of Technical Education,34453
+1999,Junior Colleges / Centralised Institute,75722
+1999,MOE HQ,421409
+1999,National Institute of Education,2168
+1999,Others,23594
+1999,Polytechnics,146463
+1999,Primary Schools,237624
+1999,Secondary Schools,315929
+1999,Special Education,2303
+1999,Universities,340949
+2000,Institute of Technical Education,52334
+2000,Junior Colleges / Centralised Institute,73891
+2000,MOE HQ,279507
+2000,National Institute of Education,11318
+2000,Others,37765
+2000,Polytechnics,169183
+2000,Primary Schools,383822
+2000,Secondary Schools,249509
+2000,Special Education,3657
+2000,Universities,329625
+2001,Institute of Technical Education,60049
+2001,Junior Colleges / Centralised Institute,66530
+2001,MOE HQ,173612
+2001,National Institute of Education,11286
+2001,Others,21015
+2001,Polytechnics,129383
+2001,Primary Schools,444755
+2001,Secondary Schools,232211
+2001,Special Education,2158
+2001,Universities,331992
+2002,Institute of Technical Education,120861
+2002,Junior Colleges / Centralised Institute,89749
+2002,MOE HQ,182329
+2002,National Institute of Education,7699
+2002,Others,36100
+2002,Polytechnics,308888
+2002,Primary Schools,368489
+2002,Secondary Schools,272914
+2002,Special Education,2414
+2002,Universities,384117
+2003,Institute of Technical Education,130530
+2003,Junior Colleges / Centralised Institute,41513
+2003,MOE HQ,43497
+2003,National Institute of Education,200
+2003,Others,67803
+2003,Polytechnics,146433
+2003,Primary Schools,195005
+2003,Secondary Schools,284099
+2003,Special Education,6270
+2003,Universities,302293
+2004,Institute of Technical Education,103168
+2004,Junior Colleges / Centralised Institute,64569
+2004,MOE HQ,42304
+2004,National Institute of Education,2890
+2004,Others,23640
+2004,Polytechnics,183424
+2004,Primary Schools,125777
+2004,Secondary Schools,233314
+2004,Special Education,6367
+2004,Universities,453944
+2005,Institute of Technical Education,37596
+2005,Junior Colleges / Centralised Institute,46232
+2005,MOE HQ,44835
+2005,National Institute of Education,0
+2005,Others,23312
+2005,Polytechnics,262858
+2005,Primary Schools,72258
+2005,Secondary Schools,131273
+2005,Special Education,1240
+2005,Universities,247374
+2006,Institute of Technical Education,70167
+2006,Junior Colleges / Centralised Institute,14811
+2006,MOE HQ,42425
+2006,National Institute of Education,0
+2006,Others,4725
+2006,Polytechnics,152823
+2006,Primary Schools,78447
+2006,Secondary Schools,104640
+2006,Special Education,2035
+2006,Universities,137496
+2007,Institute of Technical Education,5960
+2007,Junior Colleges / Centralised Institute,7793
+2007,MOE HQ,58358
+2007,National Institute of Education,0
+2007,Others,7713
+2007,Polytechnics,116371
+2007,Primary Schools,214637
+2007,Secondary Schools,157152
+2007,Special Education,20495
+2007,Universities,153564
+2008,Institute of Technical Education,7666
+2008,Junior Colleges / Centralised Institute,3161
+2008,MOE HQ,69595
+2008,National Institute of Education,958
+2008,Others,2472
+2008,Polytechnics,42076
+2008,Primary Schools,267672
+2008,Secondary Schools,212062
+2008,Special Education,29204
+2008,Universities,118307
+2009,Institute of Technical Education,11510
+2009,Junior Colleges / Centralised Institute,4020
+2009,MOE HQ,74776
+2009,National Institute of Education,9417
+2009,Others,3884
+2009,Polytechnics,62297
+2009,Primary Schools,214235
+2009,Secondary Schools,275916
+2009,Special Education,27721
+2009,Universities,163371
+2010,Institute of Technical Education,142006
+2010,Junior Colleges / Centralised Institute,12910
+2010,MOE HQ,104467
+2010,National Institute of Education,1298
+2010,Others,1044
+2010,Polytechnics,71379
+2010,Primary Schools,151204
+2010,Secondary Schools,153719
+2010,Special Education,14048
+2010,Universities,224661
+2011,Institute of Technical Education,255687
+2011,Junior Colleges / Centralised Institute,4081
+2011,MOE HQ,82970
+2011,National Institute of Education,0
+2011,Others,389
+2011,Polytechnics,20417
+2011,Primary Schools,354602
+2011,Secondary Schools,137802
+2011,Special Education,17899
+2011,Universities,168610
+2012,Institute of Technical Education,122940
+2012,Junior Colleges / Centralised Institute,1003
+2012,MOE HQ,31521
+2012,National Institute of Education,0
+2012,Others,0
+2012,Polytechnics,90434
+2012,Primary Schools,335973
+2012,Secondary Schools,82431
+2012,Special Education,3336
+2012,Universities,191961
+2013,Institute of Technical Education,20780
+2013,Junior Colleges / Centralised Institute,1883
+2013,MOE HQ,45810
+2013,National Institute of Education,0
+2013,Others,438
+2013,Polytechnics,211214
+2013,Primary Schools,280695
+2013,Secondary Schools,58199
+2013,Special Education,1609
+2013,Universities,352817
+2014,Institute of Technical Education,6774
+2014,Junior Colleges / Centralised Institute,1921
+2014,MOE HQ,46671
+2014,National Institute of Education,0
+2014,Others,1563
+2014,Polytechnics,135099
+2014,Primary Schools,372492
+2014,Secondary Schools,69847
+2014,Special Education,76
+2014,Universities,251570
+2015,Institute of Technical Education,535
+2015,Junior Colleges / Centralised Institute,4176
+2015,MOE HQ,23304
+2015,National Institute of Education,0
+2015,Others,0
+2015,Polytechnics,79498
+2015,Primary Schools,345975
+2015,Secondary Schools,59858
+2015,Special Education,201
+2015,Universities,185668
+2016,Institute of Technical Education,0
+2016,Junior Colleges / Centralised Institute,23933
+2016,MOE HQ,56060
+2016,National Institute of Education,0
+2016,Others,0
+2016,Polytechnics,24518
+2016,Primary Schools,391398
+2016,Secondary Schools,86206
+2016,Special Education,2992
+2016,Universities,71553
+2017,Institute of Technical Education,0
+2017,Junior Colleges / Centralised Institute,32939
+2017,MOE HQ,115226
+2017,National Institute of Education,0
+2017,Others,2320
+2017,Polytechnics,9027
+2017,Primary Schools,299273
+2017,Secondary Schools,68799
+2017,Special Education,3271
+2017,Universities,80237
+2018,Institute of Technical Education,0
+2018,Junior Colleges / Centralised Institute,44342
+2018,MOE HQ,66742
+2018,National Institute of Education,0
+2018,Others,18170
+2018,Polytechnics,14044
+2018,Primary Schools,210453
+2018,Secondary Schools,69608
+2018,Special Education,668
+2018,Universities,22959
+2019,Institute of Technical Education,0
+2019,Junior Colleges / Centralised Institute,38835
+2019,MOE HQ,55972
+2019,National Institute of Education,0
+2019,Others,30645
+2019,Polytechnics,20412
+2019,Primary Schools,261397
+2019,Secondary Schools,73005
+2019,Special Education,5364
+2019,Universities,305469
+2020,Institute of Technical Education,0
+2020,Junior Colleges / Centralised Institute,8148
+2020,MOE HQ,35959
+2020,National Institute of Education,0
+2020,Others,45134
+2020,Polytechnics,9949
+2020,Primary Schools,147053
+2020,Secondary Schools,40439
+2020,Special Education,18424
+2020,Universities,187894
+2021,Institute of Technical Education,0
+2021,Junior Colleges / Centralised Institute,5176
+2021,MOE HQ,42981
+2021,National Institute of Education,0
+2021,Others,10023
+2021,Polytechnics,23222
+2021,Primary Schools,102237
+2021,Secondary Schools,15603
+2021,Special Education,20363
+2021,Universities,85526
+2022,Institute of Technical Education,0
+2022,Junior Colleges / Centralised Institute,6399
+2022,MOE HQ,57287
+2022,National Institute of Education,0
+2022,Others,23883
+2022,Polytechnics,15171
+2022,Primary Schools,65104
+2022,Secondary Schools,15844
+2022,Special Education,12478
+2022,Universities,12834
